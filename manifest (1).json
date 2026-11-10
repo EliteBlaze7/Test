@@ -1,0 +1,19 @@
+{
+  "name": "Pocket Arena",
+  "short_name": "Pocket Arena",
+  "description": "Small multiplayer arena shooter for phones.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
